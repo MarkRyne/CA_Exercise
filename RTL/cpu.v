@@ -18,6 +18,9 @@
 //	rdata_ext: Read data from Instruction Memory
 //	rdata_ext_2: Read data from Data Memory
 
+ 
+// Add some changes
+module 
 
 module cpu(
 		input  wire			  clk,
