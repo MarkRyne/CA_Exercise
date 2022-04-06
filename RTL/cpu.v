@@ -19,7 +19,6 @@
 //	rdata_ext_2: Read data from Data Memory
 
  
-// Add some changes
 module 
 
 module cpu(
